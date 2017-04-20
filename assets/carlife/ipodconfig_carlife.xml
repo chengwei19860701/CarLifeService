@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<GeneralConfig>
+    <ProtocolState ipod:value="2" />
+</GeneralConfig>
+
+<Identification>
+    <Name ipod:value="D531 17MC" />
+    <ModelIdentifier ipod:value="启辰T70" />
+    <Manufacturer ipod:value="Shenzhen Hangsheng Electronics Co., Ltd" />
+    <SerialNumber ipod:value="B01FE0429078" />
+    <FirmwareVersion ipod:value="VA1606XM_P200_20170331" />
+    <HardwareVersion ipod:value="S05.07" />
+    <Messages ipod:value="app | eap | power" />
+    <PowerProvidingCapability ipod:value="2" />
+    <MaximumCurrentDrawnFromDevice ipod:value="0" />
+    <CurrentLanguage ipod:value="en" />
+    <SupportedLanguage ipod:value="en" />
+    <ExternalAccessoryProtocol ipod:id="1" ipod:name="com.baidu.CarLifeVehicleProtocol" ipod:action="1" ipod:nativeid="4"/>
+    <USBHostTransportComponent ipod:id="4" ipod:name="USBHostTransportComponent" ipod:connection="1"/>
+</Identification>
